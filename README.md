@@ -1,6 +1,4 @@
-## `SEE LIVE PROJECT` : 
-
-# https://menu-app-01.herokuapp.com/
+## `SEE LIVE PROJECT` : https://menu-app-01.herokuapp.com/
 
 # Getting Started with Create React App
 
